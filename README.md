@@ -1,10 +1,7 @@
 # best-repo-ever
-kjameson-ltm:best-repo-ever kjameson git status
-On branch myfeaturebranch
-Changes not staged for commit:
+kjameson-ltm:best-repo-ever kjaiycl, myfeaturebranch
+Changes not stagekhf,hxc
       (use "git add <file>..." to update what will be committed)
-      (use "git checkout -- <file>..." to discard changes in working directory)
-   modified: README.md
-no changes added to commit (use "git add" and/or "git commit -a")
+      (use "git chec,jfuly,tfkuand/or "git commit -a")
   
 hgkg
